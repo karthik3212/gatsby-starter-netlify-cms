@@ -11,10 +11,10 @@ tags:
 ---
 ![flavor wheel]()
 
-```
-<iframe width="600" height="480" src="https://dood.to/e/8sx2il1m80q9uyj7929zqoob11qqniso" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+1. ```
+   <iframe width="600" height="480" src="https://dood.to/e/8sx2il1m80q9uyj7929zqoob11qqniso" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
 
-```
+   ```
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
